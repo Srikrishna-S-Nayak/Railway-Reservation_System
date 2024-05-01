@@ -26,7 +26,7 @@ This is a simple Railway Reservation System built using Java Spring Boot Framewo
     cd Railway-Reservation-System-Using-Spring-Boot
     ```
     
-3. Configure the MySQL database connection in `src/main/resources/application.properties`.
+3. Configure the MySQL database connection in `src/main/resources/application.properties`. Add your MySQL root user password in `spring.datasource.password` field. 
 
 4. Build the project using Maven:
     ```
