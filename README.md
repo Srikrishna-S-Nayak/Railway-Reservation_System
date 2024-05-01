@@ -40,6 +40,10 @@ This is a simple Railway Reservation System built using Java Spring Boot Framewo
     
 6. The application will start running on `http://localhost:8080`.
 
+## Note
+ - If you are executing this program for the first time, the database and the necessary tables will be created automatically. However, these tables will be empty. To use the book-tickets functionality, you’ll need to populate the `trains` table with train details. You can do this by executing the `railways.sql` file.
+ - **Before executing the `railways.sql` file, run the program first to creates the necessary database and tables.**
+
 ## Project Structure
 
 ## Project Structure
